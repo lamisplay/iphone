@@ -1,0 +1,123 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#container{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#semi{
+    color: aliceblue;
+    background-image: url(blacki.jpeg);
+    border-style: solid;
+    background-color: rgb(234, 234, 234);
+    width: 280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    border-radius: 30px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 0px;
+    border-color: rgb(242, 161, 62);
+}
+#bodr{
+    height: 1vh;
+    background-color: rgb(149, 131, 131);
+    padding-bottom: 5px;
+    border-style: ridge;
+    width: 40%;
+    position: relative;
+    /* margin-left: -70px; */
+    border-color: chocolate;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#btn2{
+    cursor: pointer;
+    border-color: rgb(168, 92, 0);
+    background-color: rgb(242, 161, 62);
+    height: 10vh;
+    width: 12%;
+    display: flex;
+    margin-bottom: 200px;
+}
+#nav{
+    width: 93%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px 10px 0 0;
+    margin: 2px 8px;
+    height: 5vh;
+}
+#date-time{
+    padding-top: 20px;
+}
+#animation{
+    color: rgb(255, 255, 255);
+    position: relative;
+    font-size: 12px;
+}
+#icon-div{
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    gap: 10px;
+    padding-left: 20px;
+}
+#icondiv2{
+    position: relative;
+    top: 370px;
+    justify-content: space-between;
+    display: flex;
+    font-size: 20px;
+    width: 80%;
+    margin-left: 30px;
+}
+#icondiv2 i {
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    background-color: rgba(71, 71, 71, 0.502);
+}
+#downbutton{
+    width: 38%;
+    height: 5px;
+    background-color:rgb(133, 133, 133);
+    margin-top: 390px; 
+    border: none;
+    border-radius: 50px;
+     margin-left: 90px;
+    cursor: pointer;
+}
+#buttons{
+    width: 173px;
+    padding: 20px;
+    border-color: white;
+}
+.button{
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 32, 62);
+    width: 50px;
+    padding: 10px;
+    border-radius: 50px;
+    height: 8vh;
+    margin-top: 4px;
+    border-color: rgb(148, 148, 148); 
+    position: relative;
+    left: 30px;
+}
+#thepassword{
+    position: relative;
+    top: 100px;
+}
+#ptage1{
+    padding: 5px;
+}
+#wallpaper{
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(HD-wallpaper-ios-14-iphone-iphone-12.jpg); */
+    background-color: aqua;
+}
